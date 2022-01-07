@@ -68,18 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Important Commands Firebase
-firebase logout
-firebase login
-firebase init
-firebase deploy
-
-### Npm commands
-npm install -g create-react-app
-npx create-react-app netflix-clone
-npm i axios
-npm install -g firebase-tools
-npm i react-youtube
-npm i movie-trailer
-npm start
