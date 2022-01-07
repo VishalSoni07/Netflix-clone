@@ -1,6 +1,8 @@
 # Netflix-clone
 Netflix clone developed using ReactJS.
 
+# Check out the App [here](https://vish-netflix-clone.web.app/)
+
 ### Npm commands
 - npm install -g create-react-app
 - npx create-react-app netflix-clone
