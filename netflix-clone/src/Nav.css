@@ -3,7 +3,7 @@
   top: 0;
   width: 100%;
   padding: 20px;
-  height: 30px;
+  height: 70px;
   z-index: 1;
 
   /* display: flex;
@@ -22,6 +22,16 @@
   left: 20px;
   width: 80px;
   object-fit: contain;
+}
+
+.nav__name {
+  position: fixed;
+  left: 120px;
+  width: 300px;
+  top: 15px;
+  font-size: x-large;
+  object-fit: contain;
+  color: rgb(21, 159, 233);
 }
 
 .nav__avatar {
