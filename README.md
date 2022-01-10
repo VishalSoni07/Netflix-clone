@@ -1,5 +1,7 @@
 # Netflix-clone
-Netflix clone developed using ReactJS.
+Netflix clone developed using ReactJS. 
+
+![Netflix-clone](https://user-images.githubusercontent.com/54352476/148720332-8406d21d-dd1e-4626-af5e-aec53f17419d.gif)
 
 # Check out the App [here](https://vish-netflix-clone.web.app/)
 
@@ -17,3 +19,6 @@ Netflix clone developed using ReactJS.
 - firebase login
 - firebase init
 - firebase deploy
+
+### Structure
+![Netflix-clone drawio](https://user-images.githubusercontent.com/54352476/148721387-5525c000-afc3-4c1e-b66f-cbb4a6bd98e0.png)
